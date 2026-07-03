@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/1N-i/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/1N-i/LeetCode-Progress/tree/master/0739-daily-temperatures) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,4 +104,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/1N-i/LeetCode-Progress/tree/master/0069-sqrtx) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
