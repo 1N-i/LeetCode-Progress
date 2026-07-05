@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/1N-i/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1N-i/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
+| [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 ## Sorting
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/1N-i/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/1N-i/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/1N-i/LeetCode-Progress/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/1N-i/LeetCode-Progress/tree/master/2942-find-words-containing-character) |
 ## Divide and Conquer
