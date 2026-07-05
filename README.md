@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/1N-i/LeetCode-Progress/tree/master/2469-convert-the-temperature) |
+| [2525-categorize-box-according-to-criteria](https://github.com/1N-i/LeetCode-Progress/tree/master/2525-categorize-box-according-to-criteria) |
 ## Simulation
 |  |
 | ------- |
