@@ -4,9 +4,8 @@ class Solution(object):
         i, size_control = 0, 0
         while i < len(nums) - size_control:
             if nums[i] not in seen: seen.append(nums[i])
-            elif nums[i] in seen:
-                if nums[i] == "_":
-                    continue
+            else:
+                if nums[i] == "_": continue
                 else:
                     nums.pop(i)
                     i -= 1
