@@ -1,10 +1,6 @@
 class Solution(object):
     def sumAndMultiply(self, n):
-        n_string = ""
-        for num in str(n):
-            if num != "0":
-                n_string += num
-
+        n_string = str(n).replace("0", "")
         if n_string == "": n_string = "0"
 
         n_list = list(n_string)
