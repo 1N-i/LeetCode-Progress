@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/1N-i/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
+| [0709-to-lower-case](https://github.com/1N-i/LeetCode-Progress/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/1N-i/LeetCode-Progress/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/1N-i/LeetCode-Progress/tree/master/2942-find-words-containing-character) |
