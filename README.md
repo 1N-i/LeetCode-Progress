@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/1N-i/LeetCode-Progress/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/1N-i/LeetCode-Progress/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/1N-i/LeetCode-Progress/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1N-i/LeetCode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/1N-i/LeetCode-Progress/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
