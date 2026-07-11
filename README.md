@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/1N-i/LeetCode-Progress/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/1N-i/LeetCode-Progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/1N-i/LeetCode-Progress/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/1N-i/LeetCode-Progress/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/1N-i/LeetCode-Progress/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/1N-i/LeetCode-Progress/tree/master/2525-categorize-box-according-to-criteria) |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/1N-i/LeetCode-Progress/tree/master/0046-permutations) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
