@@ -1,9 +1,10 @@
 class Solution(object):
     def arrayRankTransform(self, arr):
+        sorted_array = sorted(arr)
         rank = 1
         ranking = {}
 
-        for num in sorted(arr):
+        for num in sorted_array:
             if num not in ranking:
                 ranking[num] = rank
                 rank += 1
