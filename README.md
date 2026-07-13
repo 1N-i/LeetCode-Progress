@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/1N-i/LeetCode-Progress/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/1N-i/LeetCode-Progress/tree/master/2942-find-words-containing-character) |
+| [3280-convert-date-to-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/3280-convert-date-to-binary) |
 | [3941-password-strength](https://github.com/1N-i/LeetCode-Progress/tree/master/3941-password-strength) |
 ## Divide and Conquer
 |  |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/1N-i/LeetCode-Progress/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/1N-i/LeetCode-Progress/tree/master/2525-categorize-box-according-to-criteria) |
+| [3280-convert-date-to-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/3280-convert-date-to-binary) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
