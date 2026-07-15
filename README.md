@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1323-maximum-69-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2413-smallest-even-multiple](https://github.com/1N-i/LeetCode-Progress/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/1N-i/LeetCode-Progress/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/1N-i/LeetCode-Progress/tree/master/2525-categorize-box-according-to-criteria) |
 | [3280-convert-date-to-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/3280-convert-date-to-binary) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2413-smallest-even-multiple](https://github.com/1N-i/LeetCode-Progress/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/1N-i/LeetCode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
