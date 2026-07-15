@@ -203,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
