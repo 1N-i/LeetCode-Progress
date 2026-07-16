@@ -3,7 +3,7 @@ class Solution(object):
         minNum = min(nums)
         maxNum = max(nums)
 
-        if maxNum % minNum == 0: return minNum
+        if maxNum == minNum: return minNum
         
         divisors = []
         for num in range(2, maxNum):
