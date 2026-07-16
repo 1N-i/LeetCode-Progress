@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/1N-i/LeetCode-Progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/1N-i/LeetCode-Progress/tree/master/2942-find-words-containing-character) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/1N-i/LeetCode-Progress/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/1N-i/LeetCode-Progress/tree/master/2469-convert-the-temperature) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/1N-i/LeetCode-Progress/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/1N-i/LeetCode-Progress/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/1N-i/LeetCode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
