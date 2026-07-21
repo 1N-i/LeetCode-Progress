@@ -1,15 +1,17 @@
 class Solution(object):
     def reverse(self, x):
-        x_copy = x
-        if x < 0: x_copy *= -1
+        if x > 0: plus_minus = 1
+        else:
+            plus_minus = -1
+            x *= -1
 
-        str_x = str(x_copy)
+        str_x = str(x)
         ans = ""
 
         for num in str_x[::-1]:
             ans += num
 
-        if int(ans) > 2**31 - 1: return 0
+        int_ans = int(ans)
 
-        if x > 0: return int(ans)
-        else: return int(ans) * -1
+        if (-2)**31 < int_ans < 2**31 - 1: return int_ans * plus_minus
+        return 0
