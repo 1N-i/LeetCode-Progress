@@ -6,7 +6,10 @@ class Solution(object):
             x *= -1
 
         str_x = str(x)
-        ans = str_x[::-1]
+        ans = ""
+
+        for num in str_x[::-1]:
+            ans += num
 
         int_ans = int(ans)
 
