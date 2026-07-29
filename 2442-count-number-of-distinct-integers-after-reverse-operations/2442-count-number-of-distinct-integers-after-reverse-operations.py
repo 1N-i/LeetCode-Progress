@@ -1,14 +1,10 @@
 class Solution(object):
     def countDistinctIntegers(self, nums):
-        nums_and_reverse = nums[:]
+        ans = set(nums)
         for num in nums:
-            nums_and_reverse.append(self.reverseNum(str(num)))
+            ans.add(self.reverseNum(str(num)))
 
-        seen = set()
-        for num in nums_and_reverse:
-            seen.add(num)
-
-        return len(seen)
+        return len(ans)
 
     def reverseNum(self, str_num):
         return int(str_num[::-1])
