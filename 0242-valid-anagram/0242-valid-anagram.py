@@ -1,16 +1,15 @@
 class Solution(object):
     def isAnagram(self, s, t):
-        def getList(word):
-            list = []
-            for letter in word:
-                list.append(letter)
-            list.sort()
-            return list
+        list = []
+        for letter in s:
+            list.append(letter)
+        list.sort()
+        lists = list
 
-        lists = getList(s)
-        listt = getList(t)
+        list = []
+        for letter in t:
+            list.append(letter)
+        list.sort()
+        listt = list
 
-        if lists == listt:
-            return True
-        else:
-            return False
+        return lists == listt
