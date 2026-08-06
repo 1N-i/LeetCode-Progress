@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/1N-i/LeetCode-Progress/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/1N-i/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/1N-i/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0344-reverse-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/1N-i/LeetCode-Progress/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/1N-i/LeetCode-Progress/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/1N-i/LeetCode-Progress/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/1N-i/LeetCode-Progress/tree/master/0204-count-primes) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0415-add-strings) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/0190-reverse-bits) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
 ## Matrix
