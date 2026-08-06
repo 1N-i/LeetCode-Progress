@@ -1,25 +1,17 @@
 class Solution(object):
     def plusOne(self, digits):
         len_digits = len(digits)
-        first_nine = False
 
         for i in range(len_digits - 1, -1, -1):
-            if digits[i] != 9:
-                digits[i] += 1
-                if first_nine == True: digits.pop(i + 1)
-                return digits
-        
-            else:
-                print(digits)
-                if first_nine == False:
-                    digits.pop(i)
-                    digits.extend([1, 0])
-                    first_nine = True
-                
-                else: 
-                    digits.pop(i)
-                    if len(digits) >= 1: digits.pop(i)
-                    digits.insert(i, 1)
-                    digits.insert(i + 1, 0)
+            if i == 0 and digits[0] == 9:
+                digits.pop(i)
+                digits = [1, 0] + digits
 
+            elif digits[i] != 9:
+                digits[i] += 1
+                return digits
+
+            else: digits[i] = 0
+
+        
         return digits
