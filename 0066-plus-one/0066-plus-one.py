@@ -17,10 +17,9 @@ class Solution(object):
                     first_nine = True
                 
                 else: 
-                    if digits[i - 1] == 9 or digits[0 == 9]:
-                        digits.pop(i)
-                        if len(digits) >= 1: digits.pop(i)
-                        digits.insert(i, 1)
-                        digits.insert(i + 1, 0)
+                    digits.pop(i)
+                    if len(digits) >= 1: digits.pop(i)
+                    digits.insert(i, 1)
+                    digits.insert(i + 1, 0)
 
         return digits
