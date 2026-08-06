@@ -1,8 +1,6 @@
 class Solution(object):
     def plusOne(self, digits):
-        len_digits = len(digits)
-
-        for i in range(len_digits - 1, -1, -1):
+        for i in range(len(digits) - 1, -1, -1):
             if i == 0 and digits[0] == 9:
                 digits.pop(i)
                 digits = [1, 0] + digits
@@ -13,5 +11,4 @@ class Solution(object):
 
             else: digits[i] = 0
 
-        
         return digits
