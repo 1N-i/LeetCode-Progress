@@ -1,7 +1,7 @@
 class Solution(object):
     def nthUglyNumber(self, n):
         ans = [1]
-        p2 = p3 = p5 = 0
+        p2, p3, p5 = 0, 0, 0
 
         while len(ans) < n:
             opt2 = ans[p2] * 2
