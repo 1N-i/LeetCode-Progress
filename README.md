@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/1N-i/LeetCode-Progress/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
 | [2000-reverse-prefix-of-word](https://github.com/1N-i/LeetCode-Progress/tree/master/2000-reverse-prefix-of-word) |
+| [2396-strictly-palindromic-number](https://github.com/1N-i/LeetCode-Progress/tree/master/2396-strictly-palindromic-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/1N-i/LeetCode-Progress/tree/master/2119-a-number-after-a-double-reversal) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/1N-i/LeetCode-Progress/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/1N-i/LeetCode-Progress/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/1N-i/LeetCode-Progress/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0319-bulb-switcher](https://github.com/1N-i/LeetCode-Progress/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/1N-i/LeetCode-Progress/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/1N-i/LeetCode-Progress/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
