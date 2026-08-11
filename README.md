@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0313-super-ugly-number) |
 | [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0788-rotated-digits) |
 | [1025-divisor-game](https://github.com/1N-i/LeetCode-Progress/tree/master/1025-divisor-game) |
 ## Stack
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/1N-i/LeetCode-Progress/tree/master/0728-self-dividing-numbers) |
+| [0788-rotated-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0788-rotated-digits) |
 | [0989-add-to-array-form-of-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/1N-i/LeetCode-Progress/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1323-maximum-69-number) |
