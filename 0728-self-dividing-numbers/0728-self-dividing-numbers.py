@@ -1,8 +1,6 @@
 class Solution(object):
     def selfDividingNumbers(self, left, right):
-        ans = [num for num in range(left, right + 1) if self.doesSelfDivide(num)]
-
-        return ans
+        return [num for num in range(left, right + 1) if self.doesSelfDivide(num)]
 
     def doesSelfDivide(self, n):
         n_str = str(n)
