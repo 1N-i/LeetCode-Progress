@@ -1,10 +1,10 @@
 class Solution(object):
     def rotatedDigits(self, n):
-        ans = 0
+        invalid = 0
 
         for num in range(1, n + 1):
             str_num = str(num)
-            if "3" in str_num or "4" in str_num or "7" in str_num: ans += 1
+            if "3" in str_num or "4" in str_num or "7" in str_num: invalid += 1
             else:
                 new_num = ""
                 for Num in str_num:
@@ -14,6 +14,6 @@ class Solution(object):
                     elif Num == "9": new_num += "6"
                     else: new_num += Num #0, 1, 8
 
-                if new_num == str_num: ans += 1
+                if new_num == str_num: invalid += 1
 
-        return n - ans
+        return n - invalid
