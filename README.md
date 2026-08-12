@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/1N-i/LeetCode-Progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/1N-i/LeetCode-Progress/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/1N-i/LeetCode-Progress/tree/master/1672-richest-customer-wealth) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3668-restore-finishing-order](https://github.com/1N-i/LeetCode-Progress/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/3731-find-missing-elements) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3731-find-missing-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
