@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/1N-i/LeetCode-Progress/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/1N-i/LeetCode-Progress/tree/master/2942-find-words-containing-character) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3668-restore-finishing-order](https://github.com/1N-i/LeetCode-Progress/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/3731-find-missing-elements) |
 ## Hash Table
