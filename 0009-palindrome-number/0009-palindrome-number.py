@@ -1,8 +1,9 @@
 class Solution(object):
     def isPalindrome(self, x):
-        xStr = str(x)
-        if "-" in xStr:
+        xList = list(str(x))
+        if "-" in xList:
             return False
         
-        xReverse = xStr[::-1]
-        return xReverse == xStr
+        xReverse = xList[:]
+        xReverse.reverse()
+        return xReverse == xList
