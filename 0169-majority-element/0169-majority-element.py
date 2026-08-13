@@ -3,6 +3,7 @@ class Solution(object):
         ans = {}
 
         for num in nums:
-            ans[num] = ans.get(num, 0) + 1
+            if num not in ans: ans[num] = 1
+            else: ans[num] += 1
 
         return max(ans, key=ans.get)
