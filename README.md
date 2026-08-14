@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/1N-i/LeetCode-Progress/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/1N-i/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/1N-i/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/1N-i/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1N-i/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/1N-i/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/1N-i/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/1N-i/LeetCode-Progress/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/1N-i/LeetCode-Progress/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/1N-i/LeetCode-Progress/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1N-i/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/1N-i/LeetCode-Progress/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0313-super-ugly-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0313-super-ugly-number) |
 | [0319-bulb-switcher](https://github.com/1N-i/LeetCode-Progress/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/1N-i/LeetCode-Progress/tree/master/0367-valid-perfect-square) |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
