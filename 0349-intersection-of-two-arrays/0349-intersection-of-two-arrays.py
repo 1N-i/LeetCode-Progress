@@ -1,8 +1,8 @@
 class Solution(object):
     def intersection(self, nums1, nums2):
-        ans = set()
+        ans = []
 
-        for num in nums1:
-            if num in nums2: ans.add(num)
+        for num in set(nums1):
+            if num in set(nums2): ans.append(num)
 
-        return list(ans)
+        return ans
