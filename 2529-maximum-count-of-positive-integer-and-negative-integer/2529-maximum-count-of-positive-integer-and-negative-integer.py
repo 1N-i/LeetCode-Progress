@@ -1,9 +1,20 @@
 class Solution(object):
     def maximumCount(self, nums):
-        pos, neg = 0, 0
+        pos, neg, zeros = 0, 0, 0
+        left, right = 0, len(nums) - 1
 
-        for num in nums:
-            if num < 0: neg += 1
-            elif num > 0: pos += 1
+        while left <= right:
+            mid = (left + right) // 2
+            if nums[mid] < 0: left = mid + 1
+            else: right = mid - 1
 
-        return max(pos, neg)
+        neg = left
+        left, right = mid, len(nums) - 1
+
+        while left <= right:
+            mid = (left + right) // 2
+            if nums[mid] <= 0: left = mid + 1
+            else: right = mid - 1
+
+        pos = len(nums) - left
+        return max(neg, pos)
