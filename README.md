@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/1N-i/LeetCode-Progress/tree/master/2810-faulty-keyboard) |
 | [2942-find-words-containing-character](https://github.com/1N-i/LeetCode-Progress/tree/master/2942-find-words-containing-character) |
 | [3280-convert-date-to-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/3280-convert-date-to-binary) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/1N-i/LeetCode-Progress/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3941-password-strength](https://github.com/1N-i/LeetCode-Progress/tree/master/3941-password-strength) |
 ## Divide and Conquer
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [2000-reverse-prefix-of-word](https://github.com/1N-i/LeetCode-Progress/tree/master/2000-reverse-prefix-of-word) |
 | [2396-strictly-palindromic-number](https://github.com/1N-i/LeetCode-Progress/tree/master/2396-strictly-palindromic-number) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/1N-i/LeetCode-Progress/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2769-find-the-maximum-achievable-number](https://github.com/1N-i/LeetCode-Progress/tree/master/2769-find-the-maximum-achievable-number) |
 | [3280-convert-date-to-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/3280-convert-date-to-binary) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/1N-i/LeetCode-Progress/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/1N-i/LeetCode-Progress/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3945-digit-frequency-score](https://github.com/1N-i/LeetCode-Progress/tree/master/3945-digit-frequency-score) |
 ## Simulation
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/1N-i/LeetCode-Progress/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 |  |
 | ------- |
