@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/1N-i/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/1N-i/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0541-reverse-string-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1N-i/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/1N-i/LeetCode-Progress/tree/master/0557-reverse-words-in-a-string-iii) |
