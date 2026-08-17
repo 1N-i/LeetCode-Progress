@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
+| [0868-binary-gap](https://github.com/1N-i/LeetCode-Progress/tree/master/0868-binary-gap) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/1N-i/LeetCode-Progress/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 |  |
