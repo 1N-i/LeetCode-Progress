@@ -1,12 +1,9 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        left = 0
-
-        while left < len(nums):
-            right = left + 1
-            while right < len(nums):
-                if nums[left] + nums[right] == target:
-                    return [left, right]
-                right += 1
-
-            left += 1
+        num_map = {}
+        for i, num in enumerate(nums):
+            complement = target - num
+            if complement in num_map:
+                return [num_map[complement], i]
+                
+            num_map[num] = i
