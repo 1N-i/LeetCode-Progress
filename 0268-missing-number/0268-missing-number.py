@@ -1,8 +1,8 @@
 class Solution(object):
     def missingNumber(self, nums):
-        nums.sort()
-        max_num = nums[-1]
-        for num in range(max_num):
-            if num != nums[num]: return num
+        if 0 not in nums: return 0
 
-        return max_num + 1
+        if sum(range(min(nums), max(nums) + 1)) == sum(nums):
+            return max(nums) + 1 
+        
+        return sum(range(min(nums), max(nums) + 1)) - sum(nums)
