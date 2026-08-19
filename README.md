@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/1N-i/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/1N-i/LeetCode-Progress/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0313-super-ugly-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1N-i/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/1N-i/LeetCode-Progress/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/1N-i/LeetCode-Progress/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/1N-i/LeetCode-Progress/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/1N-i/LeetCode-Progress/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/1N-i/LeetCode-Progress/tree/master/0704-binary-search) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/1N-i/LeetCode-Progress/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/1N-i/LeetCode-Progress/tree/master/0868-binary-gap) |
@@ -399,4 +403,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1N-i/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
