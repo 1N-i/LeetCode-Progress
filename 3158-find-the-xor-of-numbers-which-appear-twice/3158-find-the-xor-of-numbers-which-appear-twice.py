@@ -1,10 +1,13 @@
 class Solution(object):
     def duplicateNumbersXOR(self, nums):
-        seen = []
-        ans = 0
+        seen, seen_twice = [], []
 
         for num in nums:
             if num not in seen: seen.append(num)
-            else: ans = ans ^ num
+            else: seen_twice.append(num)
+
+        ans = 0
+        for num in seen_twice:
+            ans = ans ^ num
 
         return ans
