@@ -1,3 +1,4 @@
 class Solution(object):
     def singleNumber(self, nums):
-        return (sum(set(nums)) * 3 - sum(nums)) // 2
+        supposed_sum = sum(set(nums)) * 3
+        return (supposed_sum - sum(nums)) // 2
