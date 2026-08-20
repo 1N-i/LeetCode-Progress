@@ -1,17 +1,19 @@
 class Solution(object):
     def sumAndMultiply(self, s, queries):
-        prefix_sum, prefix_val, prefix_count = [0], [0], [0]
+        size = len(s) + 1
+        prefix_sum, prefix_val, prefix_count = [0] * size, [0] * size, [0] * size
         mod = 10 ** 9 + 7
 
         for i in range(len(s)):
+            int_s_i = int(s[i])
             if s[i] != "0":
-                prefix_val.append((prefix_val[i] * 10 + int(s[i])) % mod)
-                prefix_count.append(prefix_count[-1] + 1)
+                prefix_val[i + 1] = (prefix_val[i] * 10 + int_s_i) % mod
+                prefix_count[i + 1] = prefix_count[i] + 1
             else:
-                prefix_val.append(prefix_val[-1])
-                prefix_count.append(prefix_count[-1])
+                prefix_val[i + 1] = prefix_val[i]
+                prefix_count[i + 1] = prefix_count[i]
 
-            prefix_sum.append(prefix_sum[i] + int(s[i]))
+            prefix_sum[i + 1] = prefix_sum[i] + int_s_i
 
         ans = []
         for start, end in queries:
