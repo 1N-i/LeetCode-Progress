@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/1N-i/LeetCode-Progress/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/1N-i/LeetCode-Progress/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1N-i/LeetCode-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/1N-i/LeetCode-Progress/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/3731-find-missing-elements) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/1N-i/LeetCode-Progress/tree/master/2810-faulty-keyboard) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
 | ------- |
