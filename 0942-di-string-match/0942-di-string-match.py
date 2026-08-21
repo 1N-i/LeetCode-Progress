@@ -1,19 +1,16 @@
 class Solution(object):
     def diStringMatch(self, s):
-        perm = [0] * (len(s) + 1)
+        perm = []
         low, high = 0, len(s)
-        i = 0
 
-        while i <= len(s) - 1:
-            if s[i] == "I":
-                perm[i] = low
+        for l in s:
+            if l == "I":
+                perm.append(low)
                 low += 1
 
-            else: #s[i] == "D"
-                perm[i] = high
+            else: #l == "D"
+                perm.append(high)
                 high -= 1
 
-            i += 1
-
-        perm[i] = high
+        perm.append(high)
         return perm
