@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/1N-i/LeetCode-Progress/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2206-divide-array-into-equal-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/2206-divide-array-into-equal-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2418-sort-the-people](https://github.com/1N-i/LeetCode-Progress/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/1N-i/LeetCode-Progress/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1N-i/LeetCode-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/1N-i/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/1N-i/LeetCode-Progress/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/1N-i/LeetCode-Progress/tree/master/0868-binary-gap) |
+| [2206-divide-array-into-equal-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/2206-divide-array-into-equal-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1N-i/LeetCode-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/1N-i/LeetCode-Progress/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
