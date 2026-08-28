@@ -3,7 +3,7 @@ class Solution(object):
         if n < 2: return n
         before, last = 0, 1
 
-        for _ in range(n - 1):
+        for i in range(n - 1):
             before, last = last, before + last
 
         return last
