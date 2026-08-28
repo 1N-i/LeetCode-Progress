@@ -4,7 +4,10 @@ class Solution(object):
 
         list_f = [0, 1]
 
+        before, last = 0, 1
+
         for i in range(n - 1):
-            list_f.append(list_f[-1] + list_f[-2])
+            list_f.append(before + last)
+            before, last = last, before + last
 
         return list_f[-1]     
