@@ -1,10 +1,10 @@
 class Solution(object):
     def mapWordWeights(self, words, weights):
         ans = []
-        for s in words:
+        for word in words:
             count = 0
-            for i in range(len(s)):
-                count += weights[ord(s[i]) - ord('a')]
-            ans.append(chr(ord('a') + (25 - (count % 26))))
-            
+            for letter in word:
+                count += weights[ord(letter) - 97] #97 = ord("a")
+            ans.append(chr(97 + (25 - (count % 26))))
+
         return "".join(ans)
