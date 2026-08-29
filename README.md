@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1N-i/LeetCode-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3668-restore-finishing-order](https://github.com/1N-i/LeetCode-Progress/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/3731-find-missing-elements) |
+| [3838-weighted-word-mapping](https://github.com/1N-i/LeetCode-Progress/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/3280-convert-date-to-binary) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/1N-i/LeetCode-Progress/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3838-weighted-word-mapping](https://github.com/1N-i/LeetCode-Progress/tree/master/3838-weighted-word-mapping) |
 | [3941-password-strength](https://github.com/1N-i/LeetCode-Progress/tree/master/3941-password-strength) |
 ## Divide and Conquer
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/1N-i/LeetCode-Progress/tree/master/2810-faulty-keyboard) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3838-weighted-word-mapping](https://github.com/1N-i/LeetCode-Progress/tree/master/3838-weighted-word-mapping) |
 ## Combinatorics
 |  |
 | ------- |
