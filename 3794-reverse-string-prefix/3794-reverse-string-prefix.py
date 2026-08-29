@@ -1,12 +1,11 @@
 class Solution:
     def reversePrefix(self, s, k):
-        s = list(s)
-        i = 0
-        k -= 1
+        ans = list(s)
+        left, right = 0, k - 1
 
-        while i < k:
-            s[i], s[k] = s[k], s[i]
-            i += 1
-            k -= 1
+        while left < right:
+            ans[left], ans[right] = ans[right], ans[left]
+            left += 1
+            right -= 1
 
-        return "".join(s)
+        return "".join(ans)
