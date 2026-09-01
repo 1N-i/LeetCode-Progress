@@ -5,10 +5,9 @@ class Solution(object):
         tempSum = maxSum
 
         for i in range(k):
-            maxSum = max(maxSum, tempSum)
             tempSum = tempSum - cardPoints[left] + cardPoints[right]
+            maxSum = max(maxSum, tempSum)
             left -= 1
             right -= 1
 
-        maxSum = max(maxSum, tempSum)
         return maxSum
