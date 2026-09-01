@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1N-i/LeetCode-Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/1N-i/LeetCode-Progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/1N-i/LeetCode-Progress/tree/master/1528-shuffle-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/1N-i/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1N-i/LeetCode-Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1N-i/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1N-i/LeetCode-Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Monotonic Queue
 |  |
 | ------- |
