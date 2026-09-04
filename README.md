@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0682-baseball-game](https://github.com/1N-i/LeetCode-Progress/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/1N-i/LeetCode-Progress/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/1N-i/LeetCode-Progress/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
 | [0942-di-string-match](https://github.com/1N-i/LeetCode-Progress/tree/master/0942-di-string-match) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/1N-i/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1N-i/LeetCode-Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3903-smallest-stable-index-i) |
