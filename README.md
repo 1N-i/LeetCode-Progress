@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/1N-i/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/1N-i/LeetCode-Progress/tree/master/0303-range-sum-query-immutable) |
 | [0313-super-ugly-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0313-super-ugly-number) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/1N-i/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/1N-i/LeetCode-Progress/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1N-i/LeetCode-Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/1N-i/LeetCode-Progress/tree/master/0069-sqrtx) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/1N-i/LeetCode-Progress/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
