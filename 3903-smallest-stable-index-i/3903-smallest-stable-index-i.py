@@ -14,8 +14,7 @@ class Solution(object):
 
         sufixMin = sufixMin[::-1]
 
-        for i in range(len(nums)):
-            if prefixMax[i] - sufixMin[i] <= k:
-                return i
+        for i, (maxN, minN) in enumerate(zip(prefixMax, sufixMin)):
+            if maxN - minN <= k: return i
 
         return -1
