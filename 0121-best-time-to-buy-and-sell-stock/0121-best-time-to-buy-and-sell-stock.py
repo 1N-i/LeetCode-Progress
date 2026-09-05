@@ -2,9 +2,10 @@ class Solution:
     def maxProfit(self, prices):
         profit, buy = 0, prices[0]
 
-        for i in range(1, len(prices)):
-            if prices[i] < buy: buy = prices[i]
-            elif prices[i] - buy > profit:
-                profit = prices[i] - buy
-                
+        for price in prices:
+            if price < buy:
+                buy = price
+            elif price - buy > profit:
+                profit = price - buy
+
         return profit
