@@ -1,9 +1,21 @@
 class Solution(object):
     def firstStableIndex(self, nums, k):
-        for i in range(len(nums)):
-            maxNum = max(nums[:i + 1])
-            minNum = min(nums[i:])
+        maxNum, prefixMax = nums[0], []
+        for num in nums:
+            if num > maxNum:
+                maxNum = num
+            prefixMax.append(maxNum)
 
-            if maxNum - minNum <= k: return i
+        minNum, sufixMin = nums[-1], []
+        for num in reversed(nums):
+            if num < minNum:
+                minNum = num
+            sufixMin.append(minNum)
+
+        sufixMin = sufixMin[::-1]
+
+        for i in range(len(nums)):
+            if prefixMax[i] - sufixMin[i] <= k:
+                return i
 
         return -1
