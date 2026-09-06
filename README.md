@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1N-i/LeetCode-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3467-transform-array-by-parity](https://github.com/1N-i/LeetCode-Progress/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/1N-i/LeetCode-Progress/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/1N-i/LeetCode-Progress/tree/master/3838-weighted-word-mapping) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/1N-i/LeetCode-Progress/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2418-sort-the-people](https://github.com/1N-i/LeetCode-Progress/tree/master/2418-sort-the-people) |
+| [3467-transform-array-by-parity](https://github.com/1N-i/LeetCode-Progress/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/2206-divide-array-into-equal-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3467-transform-array-by-parity](https://github.com/1N-i/LeetCode-Progress/tree/master/3467-transform-array-by-parity) |
 ## Quickselect
 |  |
 | ------- |
