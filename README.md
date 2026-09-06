@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/1N-i/LeetCode-Progress/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2000-reverse-prefix-of-word](https://github.com/1N-i/LeetCode-Progress/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/1N-i/LeetCode-Progress/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/1N-i/LeetCode-Progress/tree/master/2418-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/1N-i/LeetCode-Progress/tree/master/2810-faulty-keyboard) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1N-i/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1N-i/LeetCode-Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/1N-i/LeetCode-Progress/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Monotonic Queue
 |  |
 | ------- |
