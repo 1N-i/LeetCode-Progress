@@ -1,17 +1,13 @@
 class Solution(object):
     def minimumRecolors(self, blocks, k):
-        left, right = 0, 0
-        minS, temp = len(blocks), 0
+        temp = 0
+        for i in range(k):
+            if blocks[i] == "W": temp += 1
 
-        while left <= len(blocks) - k:
-            if blocks[right] == "W":
-                temp += 1
-
-            right += 1
-            if right == left + k:
-                minS = min(minS, temp)
-                temp = 0
-                left += 1
-                right = left
+        minS = min(k, temp)
+        for right in range(k, len(blocks)):
+            if blocks[right - k] == "W": temp -= 1 #Left pointer
+            if blocks[right] == "W": temp += 1
+            minS = min(minS, temp)
 
         return minS
