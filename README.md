@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/1N-i/LeetCode-Progress/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
+| [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
 | [0942-di-string-match](https://github.com/1N-i/LeetCode-Progress/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0989-add-to-array-form-of-integer) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
@@ -165,16 +167,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1N-i/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
@@ -478,4 +484,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/1N-i/LeetCode-Progress/tree/master/0303-range-sum-query-immutable) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
