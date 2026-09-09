@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/1N-i/LeetCode-Progress/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/1N-i/LeetCode-Progress/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/1N-i/LeetCode-Progress/tree/master/0709-to-lower-case) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/1N-i/LeetCode-Progress/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/1N-i/LeetCode-Progress/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/1N-i/LeetCode-Progress/tree/master/0728-self-dividing-numbers) |
 | [0788-rotated-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0788-rotated-digits) |
