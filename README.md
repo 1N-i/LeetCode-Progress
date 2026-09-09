@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/1N-i/LeetCode-Progress/tree/master/0371-sum-of-two-integers) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/1N-i/LeetCode-Progress/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/1009-complement-of-base-10-integer) |
 | [2206-divide-array-into-equal-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/2206-divide-array-into-equal-pairs) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1N-i/LeetCode-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/1N-i/LeetCode-Progress/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
