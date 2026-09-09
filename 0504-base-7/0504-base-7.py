@@ -1,6 +1,6 @@
 class Solution(object):
     def convertToBase7(self, num):
-        if num == 0 or num == 1: return str(num)
+        if num == 0: return "0"
 
         negative = False
         if num < 0:
