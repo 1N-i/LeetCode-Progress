@@ -3,8 +3,9 @@ class Solution(object):
         if len(str(n)) <= 3: return 0
     
         ans = 0
-        for exp in range(3, len(str(n)), 3):
-            mult = 10 ** exp
+        mult = 1000
+        while mult <= n:
             ans += (n - mult + 1)
+            mult *= 1000
 
         return ans
