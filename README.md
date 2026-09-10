@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/1N-i/LeetCode-Progress/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/1N-i/LeetCode-Progress/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/1N-i/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/1N-i/LeetCode-Progress/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/1N-i/LeetCode-Progress/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/1N-i/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0264-ugly-number-ii) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/1N-i/LeetCode-Progress/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/1N-i/LeetCode-Progress/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
