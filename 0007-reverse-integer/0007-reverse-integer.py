@@ -1,8 +1,11 @@
 class Solution(object):
     def reverse(self, x):
-        plus_minus = 1 if x > 0 else -1
+        if x > 0: plus_minus = 1
+        else:
+            plus_minus = -1
+            x *= -1
 
-        str_x = str(x * plus_minus)
+        str_x = str(x)
         ans = ""
 
         for num in str_x[::-1]:
