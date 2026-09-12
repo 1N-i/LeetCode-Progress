@@ -3,7 +3,7 @@ class Solution(object):
         plus_minus = 1 if x > 0 else -1
 
         str_x = str(x * plus_minus)
-        ans = "".join(num for num in str_x[::-1])
+        ans = "".join(num for num in reversed(str_x))
 
         int_ans = int(ans)
 
