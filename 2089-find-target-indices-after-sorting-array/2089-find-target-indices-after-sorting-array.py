@@ -8,8 +8,7 @@ class Solution(object):
                 ans.append(i)
 
                 for j in range(i + 1, len(nums)):
-                    if nums[j] != target:
-                        break
+                    if nums[j] != target: break
                     ans.append(j)
 
                 break
