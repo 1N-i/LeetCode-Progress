@@ -7,10 +7,4 @@ class Solution(object):
             if nums[i] == target:
                 ans.append(i)
 
-                for j in range(i + 1, len(nums)):
-                    if nums[j] != target: break
-                    ans.append(j)
-
-                break
-
         return ans
