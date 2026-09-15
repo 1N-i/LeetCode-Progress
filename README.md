@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0398-random-pick-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/1N-i/LeetCode-Progress/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/1N-i/LeetCode-Progress/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/1N-i/LeetCode-Progress/tree/master/0371-sum-of-two-integers) |
+| [0398-random-pick-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/1N-i/LeetCode-Progress/tree/master/0504-base-7) |
@@ -521,4 +523,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/1N-i/LeetCode-Progress/tree/master/0836-rectangle-overlap) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
