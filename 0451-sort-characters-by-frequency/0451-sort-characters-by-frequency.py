@@ -6,10 +6,10 @@ class Solution:
             if l not in map_s: map_s[l] = 0
             map_s[l] += 1
 
-        sorted_map = dict(sorted(map_s.items(), key=lambda item: item[1], reverse=True))
+        sorted_map = sorted(map_s.items(), key=lambda item: item[1], reverse=True)
 
         ans = ""
-        for l in sorted_map:
-            ans += l * sorted_map[l]
+        for l, qtd in sorted_map:
+            ans += l * qtd
 
         return ans
