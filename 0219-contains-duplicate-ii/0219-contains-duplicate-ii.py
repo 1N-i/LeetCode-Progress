@@ -6,9 +6,9 @@ class Solution(object):
             if num not in map_nums:
                 map_nums[nums[i]] = i
 
-            if i - map_nums[num] != 0 and i - map_nums[num] <= k:
-                return True
-                
-            map_nums[num] = i
+            else:
+                if i - map_nums[num] <= k:
+                    return True
+                map_nums[num] = i
 
         return False
