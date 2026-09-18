@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1N-i/LeetCode-Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/1N-i/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2206-divide-array-into-equal-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/2206-divide-array-into-equal-pairs) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/1N-i/LeetCode-Progress/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/1N-i/LeetCode-Progress/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
@@ -468,10 +472,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/1N-i/LeetCode-Progress/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/1N-i/LeetCode-Progress/tree/master/0075-sort-colors) |
+| [1122-relative-sort-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1122-relative-sort-array) |
 ## String Matching
 |  |
 | ------- |
