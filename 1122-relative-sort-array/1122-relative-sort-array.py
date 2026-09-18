@@ -4,12 +4,10 @@ class Solution(object):
         not_arr2 = []
 
         for num in arr1:
-            if num not in map_ans:
-                map_ans[num] = 0
+            map_ans[num] = map_ans.get(num, 0) + 1
+
             if num not in arr2:
                 not_arr2.append(num)
-
-            map_ans[num] += 1
 
         for num in arr2:
             ans.extend([num] * map_ans[num])
