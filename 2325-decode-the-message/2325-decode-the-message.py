@@ -1,0 +1,21 @@
+class Solution(object):
+    def decodeMessage(self, key, message):
+        ans, guide = "", {}
+        alphabet = "abcdefghijklmnopqrstuvwxyz"
+        letters = 0
+
+        for l in key:
+            if l == " ": continue
+            if l not in guide:
+                guide[l] = alphabet[letters]
+                letters += 1
+
+            if letters == 26: break
+
+        for l in message:
+            if l == " ":
+                ans += " "
+                continue
+            ans += guide[l]
+
+        return ans
