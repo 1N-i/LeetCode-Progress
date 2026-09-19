@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/2206-divide-array-into-equal-pairs) |
+| [2325-decode-the-message](https://github.com/1N-i/LeetCode-Progress/tree/master/2325-decode-the-message) |
 | [2418-sort-the-people](https://github.com/1N-i/LeetCode-Progress/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/1N-i/LeetCode-Progress/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/1N-i/LeetCode-Progress/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2000-reverse-prefix-of-word](https://github.com/1N-i/LeetCode-Progress/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2325-decode-the-message](https://github.com/1N-i/LeetCode-Progress/tree/master/2325-decode-the-message) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/1N-i/LeetCode-Progress/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/1N-i/LeetCode-Progress/tree/master/2418-sort-the-people) |
