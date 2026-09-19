@@ -1,9 +1,5 @@
 class Solution(object):
     def isValid(self, s):
-        if len(s) <= 1: return False
-        if s[-1] in ["(", "[", "{"]: return False
-        if s[0] in [")", "]", "}"]: return False
-
         guide = {
             ")": "(",
             "]": "[",
