@@ -1,7 +1,8 @@
+import string
 class Solution(object):
     def decodeMessage(self, key, message):
         ans, guide = "", {}
-        alphabet = "abcdefghijklmnopqrstuvwxyz"
+        alphabet = string.ascii_lowercase
         letters = 0
 
         for l in key:
