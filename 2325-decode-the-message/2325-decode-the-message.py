@@ -1,7 +1,7 @@
 import string
 class Solution(object):
     def decodeMessage(self, key, message):
-        ans, guide = "", {}
+        ans, guide = [], {}
         alphabet = string.ascii_lowercase
         letters = 0
 
@@ -15,8 +15,8 @@ class Solution(object):
 
         for l in message:
             if l == " ":
-                ans += " "
+                ans.append(" ")
                 continue
-            ans += guide[l]
+            ans.append(guide[l])
 
-        return ans
+        return "".join(ans)
