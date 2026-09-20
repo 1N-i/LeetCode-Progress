@@ -1,13 +1,12 @@
 class Solution(object):
     def pivotArray(self, nums, pivot):
-        buckets = [[], [], []]
-
+        smaller, equal, bigger = [], [], []
         for num in nums:
             if num < pivot:
-                buckets[0].append(num)
+                smaller.append(num)
             elif num == pivot:
-                buckets[1].append(num)
+                equal.append(num)
             else:
-                buckets[2].append(num)
+                bigger.append(num)
 
-        return buckets[0] + buckets[1] + buckets[2]
+        return smaller + equal + bigger
