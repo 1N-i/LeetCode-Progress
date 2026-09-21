@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/1N-i/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/1N-i/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/1N-i/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/1N-i/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0912-sort-an-array) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/1N-i/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/1N-i/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/1N-i/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/1N-i/LeetCode-Progress/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/1N-i/LeetCode-Progress/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/1N-i/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/1N-i/LeetCode-Progress/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/1N-i/LeetCode-Progress/tree/master/0868-binary-gap) |
