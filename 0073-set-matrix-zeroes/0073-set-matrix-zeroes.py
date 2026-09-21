@@ -12,9 +12,10 @@ class Solution(object):
             xs.append(pair[0])
             ys.append(pair[1])
 
-        for x in range(len_x):
+        for x in xs:
             for y in range(len_y):
-                if x in xs:
-                    matrix[x][y] = 0
-                if y in ys:
-                    matrix[x][y] = 0
+                matrix[x][y] = 0
+
+        for y in ys:
+            for x in range(len_x):
+                matrix[x][y] = 0
