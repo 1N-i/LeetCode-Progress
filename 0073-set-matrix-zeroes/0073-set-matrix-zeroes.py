@@ -7,10 +7,10 @@ class Solution(object):
                 if matrix[x][y] == 0:
                     guide["0"].append([x, y])
 
-        xs, ys = [], []
+        xs, ys = set(), set()
         for pair in guide["0"]:
-            xs.append(pair[0])
-            ys.append(pair[1])
+            xs.add(pair[0])
+            ys.add(pair[1])
 
         for x in xs:
             for y in range(len_y):
