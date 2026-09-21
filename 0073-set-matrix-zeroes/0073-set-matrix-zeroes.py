@@ -9,7 +9,8 @@ class Solution(object):
                     ys.add(y)
 
         for x in xs:
-            matrix[x][:] = [0] * len_y
+            for y in range(len_y):
+                matrix[x][y] = 0
 
         for y in ys:
             for x in range(len_x):
