@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/1N-i/LeetCode-Progress/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/1N-i/LeetCode-Progress/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/1N-i/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/1N-i/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/1N-i/LeetCode-Progress/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/1N-i/LeetCode-Progress/tree/master/0118-pascals-triangle) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/1N-i/LeetCode-Progress/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/1N-i/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/1N-i/LeetCode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/1N-i/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0202-happy-number) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/1N-i/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/1N-i/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0832-flipping-an-image) |
