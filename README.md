@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/1N-i/LeetCode-Progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1991-find-the-middle-index-in-array) |
+| [2485-find-the-pivot-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/2485-find-the-pivot-integer) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/1N-i/LeetCode-Progress/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/3904-smallest-stable-index-ii) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/1N-i/LeetCode-Progress/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/1N-i/LeetCode-Progress/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/2485-find-the-pivot-integer) |
 | [2525-categorize-box-according-to-criteria](https://github.com/1N-i/LeetCode-Progress/tree/master/2525-categorize-box-according-to-criteria) |
 | [2769-find-the-maximum-achievable-number](https://github.com/1N-i/LeetCode-Progress/tree/master/2769-find-the-maximum-achievable-number) |
 | [3280-convert-date-to-binary](https://github.com/1N-i/LeetCode-Progress/tree/master/3280-convert-date-to-binary) |
