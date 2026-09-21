@@ -1,13 +1,8 @@
 class Solution(object):
     def findTheDifference(self, s, t):
-        map1, map2 = {}, {}
+        s = "".join(sorted(s))
+        t = "".join(sorted(t))
 
-        for l in s:
-            map1[l] = map1.get(l, 0) + 1
-
-        for l in t:
-            map2[l] = map2.get(l, 0) + 1
-
-        for l in map2:
-            if l not in map1: return l
-            if map2[l] > map1[l]: return l
+        for p in range(len(t)):
+            if p == len(s): return t[p]
+            if s[p] != t[p]: return t[p]
