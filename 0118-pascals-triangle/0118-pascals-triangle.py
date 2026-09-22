@@ -2,7 +2,7 @@ class Solution(object):
     def generate(self, numRows):
         triangle = []
         for row_size in range(numRows):
-            triangle_row = [0] * (row_size + 1)
+            triangle_row = [1] * (row_size + 1)
 
             if row_size > 1:
                 for i in range(len(triangle_row) - 1):
