@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/1N-i/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/1N-i/LeetCode-Progress/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/1N-i/LeetCode-Progress/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/1N-i/LeetCode-Progress/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0989-add-to-array-form-of-integer) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/1N-i/LeetCode-Progress/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/1N-i/LeetCode-Progress/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/1N-i/LeetCode-Progress/tree/master/1492-the-kth-factor-of-n) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/1N-i/LeetCode-Progress/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
