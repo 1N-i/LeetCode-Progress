@@ -1,14 +1,15 @@
 class Solution(object):
     def findWords(self, words):
         ans = []
-        fir_row = set("qwertyuiopQWERTYUIOP")
-        sec_row = set("asdfghjklASDFGHJKL")
-        thi_row = set("zxcvbnmZXCVBNM")
+        fir_row = set("qwertyuiop")
+        sec_row = set("asdfghjkl")
+        thi_row = set("zxcvbnm")
         for word in words:
             fr = 0
             sr = 0
             tr = 0
-            for l in word:
+            lower_word = word.lower()
+            for l in lower_word:
                 if l in fir_row:
                     fr = 1
                 if l in sec_row:
