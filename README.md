@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0500-keyboard-row](https://github.com/1N-i/LeetCode-Progress/tree/master/0500-keyboard-row) |
 | [0682-baseball-game](https://github.com/1N-i/LeetCode-Progress/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/1N-i/LeetCode-Progress/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0724-find-pivot-index) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/1N-i/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/1N-i/LeetCode-Progress/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/1N-i/LeetCode-Progress/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/1N-i/LeetCode-Progress/tree/master/0771-jewels-and-stones) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/1N-i/LeetCode-Progress/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/1N-i/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/1N-i/LeetCode-Progress/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/1N-i/LeetCode-Progress/tree/master/0504-base-7) |
 | [0535-encode-and-decode-tinyurl](https://github.com/1N-i/LeetCode-Progress/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0541-reverse-string-ii) |
