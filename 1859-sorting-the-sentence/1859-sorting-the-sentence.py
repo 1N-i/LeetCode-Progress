@@ -7,5 +7,5 @@ class Solution(object):
             i = int(word[-1]) - 1
             result[i] = word[:-1]
 
-        sentence = " ".join(result)
-        return sentence
+        ans = " ".join(result)
+        return ans
