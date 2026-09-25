@@ -1,15 +1,11 @@
 class Solution(object):
     def sortSentence(self, s):
-        guide = {}
+        words = s.split()
+        result = [""] * len(words)
 
-        s_list = s.split()
-        for word in s_list:
-            guide[word[-1]] = word[:-1]
+        for word in words:
+            i = int(word[-1]) - 1
+            result[i] = word[:-1]
 
-        ans = ""
-        for num in range(1, len(s_list) + 1):
-            ans += guide[str(num)]
-            if num != len(s_list):
-                ans += " "
-
-        return ans
+        sentence = " ".join(result)
+        return sentence
