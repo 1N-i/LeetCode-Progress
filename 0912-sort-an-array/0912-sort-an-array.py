@@ -1,24 +1,24 @@
 class Solution(object):
     def sortArray(self, nums):
-        if len(nums) <= 1: 
-            return nums
+        def heapify(nums, n, i):
+            largest = i
+            left, right = (2 * i) + 1, (2 * i) + 2
 
-        mid = len(nums) // 2
-        list_l = self.sortArray(nums[:mid])
-        list_r = self.sortArray(nums[mid:])
-        
-        ans = []
-        left = right = 0
-        
-        while left < len(list_l) and right < len(list_r):
-            if list_l[left] < list_r[right]:
-                ans.append(list_l[left])
-                left += 1
-            else:
-                ans.append(list_r[right])
-                right += 1
-        
-        ans.extend(list_l[left:])
-        ans.extend(list_r[right:])
-        
-        return ans
+            if left < n and nums[left] > nums[largest]:
+                largest = left
+            if right < n and nums[right] > nums[largest]:
+                largest = right
+
+            if i != largest:
+                nums[i], nums[largest] = nums[largest], nums[i]
+                heapify(nums, n, largest)
+
+        len_nums = len(nums)
+        for i in range((len_nums // 2) - 1, -1, -1):
+            heapify(nums, len_nums, i)
+
+        for i in range(len_nums - 1, 0, -1):
+            nums[i], nums[0] = nums[0], nums[i]
+            heapify(nums, i, 0)
+
+        return nums
