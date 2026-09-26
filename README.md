@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/1N-i/LeetCode-Progress/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/1N-i/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/1N-i/LeetCode-Progress/tree/master/0398-random-pick-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/1N-i/LeetCode-Progress/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/1N-i/LeetCode-Progress/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/1N-i/LeetCode-Progress/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/1N-i/LeetCode-Progress/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/1N-i/LeetCode-Progress/tree/master/0415-add-strings) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/1N-i/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/1N-i/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/1N-i/LeetCode-Progress/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/1N-i/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/1N-i/LeetCode-Progress/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/1N-i/LeetCode-Progress/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
