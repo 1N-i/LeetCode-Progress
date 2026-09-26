@@ -1,24 +1,36 @@
 class Solution(object):
     def sortArray(self, nums):
-        def heapify(nums, n, i):
-            largest = i
-            left, right = (2 * i) + 1, (2 * i) + 2
+        len_nums, min_num = len(nums), min(nums)
+        if min_num < 0:
+            for i in range(len_nums):
+                nums[i] -= min_num
+                
+        max_num = max(nums)
+        if min_num == max_num: return nums
+        exp = 1
 
-            if left < n and nums[left] > nums[largest]:
-                largest = left
-            if right < n and nums[right] > nums[largest]:
-                largest = right
+        while exp <= max_num:
+            count = [0] * 10
+            output = [0] * len_nums
+            for num in nums:
+                digit = (num // exp) % 10
+                count[digit] += 1
 
-            if i != largest:
-                nums[i], nums[largest] = nums[largest], nums[i]
-                heapify(nums, n, largest)
+            for i in range(1, 10):
+                count[i] += count[i - 1]
 
-        len_nums = len(nums)
-        for i in range((len_nums // 2) - 1, -1, -1):
-            heapify(nums, len_nums, i)
+            for i in range(len_nums - 1, -1, -1):
+                num = nums[i]
+                digit = (num // exp) % 10
+                pos = count[digit] - 1
+                output[pos] = num
+                count[digit] -= 1
 
-        for i in range(len_nums - 1, 0, -1):
-            nums[i], nums[0] = nums[0], nums[i]
-            heapify(nums, i, 0)
+            nums[:] = output
+            exp *= 10
+
+        if min_num < 0:
+            for i in range(len_nums):
+                nums[i] += min_num
 
         return nums
