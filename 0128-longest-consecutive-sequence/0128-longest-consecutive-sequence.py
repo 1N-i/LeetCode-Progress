@@ -10,6 +10,11 @@ class Solution(object):
             if setNums[i] == setNums[i-1] + 1:
                 current_streak += 1
             else:
-                max_streak = max(max_streak, current_streak)
+                if max_streak < current_streak:
+                    max_streak = current_streak
+
                 current_streak = 1
-        return max(max_streak, current_streak)
+
+        if max_streak < current_streak:
+            return current_streak
+        return max_streak
