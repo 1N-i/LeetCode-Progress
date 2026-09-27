@@ -1,8 +1,10 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        history = {}
+        guide = {}
+
         for i, num in enumerate(nums):
-            objective = target - num
-            if objective in history:
-                return sorted([history[objective] + 1, i + 1])
-            history[num] = i
+            comp = target - num
+            if comp in guide:
+                return [guide[comp] + 1, i + 1]
+
+            guide[num] = i
