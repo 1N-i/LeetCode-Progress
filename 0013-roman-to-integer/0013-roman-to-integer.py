@@ -2,7 +2,6 @@ class Solution(object):
     def romanToInt(self, s):
         total = 0
         totalList = []
-        romanList = list(s)
         dictRoman = {
             "I": 1,
             "V": 5,
@@ -13,15 +12,15 @@ class Solution(object):
             "M": 1000
         }
 
-        for romanLetter in romanList:
+        for romanLetter in s:
             totalList.append(dictRoman[romanLetter])
         
-        for index in range(len(totalList)):
-            if index == len(totalList) - 1:
-                total += totalList[index]
+        for i in range(len(totalList)):
+            if i == len(totalList) - 1:
+                total += totalList[i]
                 break
             
-            if totalList[index] >= totalList[index + 1]: total += totalList[index]
-            if totalList[index] < totalList[index + 1]: total -= totalList[index]
+            if totalList[i] >= totalList[i + 1]: total += totalList[i]
+            if totalList[i] < totalList[i + 1]: total -= totalList[i]
                 
         return total
