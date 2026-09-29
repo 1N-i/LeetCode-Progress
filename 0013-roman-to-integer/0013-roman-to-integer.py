@@ -15,12 +15,9 @@ class Solution(object):
         for romanLetter in s:
             totalList.append(dictRoman[romanLetter])
         
-        for i in range(len(totalList)):
-            if i == len(totalList) - 1:
-                total += totalList[i]
-                break
-            
-            if totalList[i] >= totalList[i + 1]: total += totalList[i]
-            if totalList[i] < totalList[i + 1]: total -= totalList[i]
+        for i in range(len(totalList) - 1):
+            to_add = totalList[i]
+            if to_add >= totalList[i + 1]: total += to_add
+            else: total -= to_add
                 
-        return total
+        return total + totalList[-1]
