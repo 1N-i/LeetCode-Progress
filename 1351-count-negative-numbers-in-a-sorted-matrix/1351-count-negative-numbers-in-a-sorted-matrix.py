@@ -3,7 +3,9 @@ class Solution(object):
         ans = 0
         for level in grid:
             for num in sorted(level):
-                if num < 0: ans += 1
-                else: break
+                if num < 0:
+                    ans += 1
+                else:
+                    break
 
         return ans
