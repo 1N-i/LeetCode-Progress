@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/1N-i/LeetCode-Progress/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/1N-i/LeetCode-Progress/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/1N-i/LeetCode-Progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/1N-i/LeetCode-Progress/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/1N-i/LeetCode-Progress/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/1N-i/LeetCode-Progress/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -652,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/1N-i/LeetCode-Progress/tree/master/0535-encode-and-decode-tinyurl) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/1N-i/LeetCode-Progress/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
