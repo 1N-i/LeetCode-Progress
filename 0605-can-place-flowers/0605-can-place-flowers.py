@@ -1,8 +1,9 @@
 class Solution(object):
     def canPlaceFlowers(self, flowerbed, n):
         if flowerbed == [0]: return True
-        if n == 0 or (sum(flowerbed) == 0 and sum(flowerbed) >= n * 2): return True
+        if (sum(flowerbed) == 0 and sum(flowerbed) >= n * 2): return True
         if len(flowerbed) == n: return False
+
         if flowerbed[0] == 0 and flowerbed[1] == 0 and n > 0:
             flowerbed[0] = 1
             n -= 1
