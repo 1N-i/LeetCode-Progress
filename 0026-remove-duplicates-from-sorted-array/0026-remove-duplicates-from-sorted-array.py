@@ -8,5 +8,5 @@ class Solution(object):
             else:
                 seen.append(num)
         
-        nums[:] = sorted(seen) + ["_"] * underline
+        nums[:] = seen
         return len(seen)
