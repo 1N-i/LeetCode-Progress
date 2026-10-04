@@ -1,12 +1,12 @@
 class Solution(object):
     def removeDuplicates(self, nums):
-        seen = set()
-        underline, size_max = 0, len(nums)
+        seen = []
+        underline = 0
         for num in nums:
             if num in seen:
                 underline += 1
             else:
-                seen.add(num)
+                seen.append(num)
         
-        nums[:] = sorted(list(seen)) + ["_"] * underline
+        nums[:] = sorted(seen) + ["_"] * underline
         return len(seen)
