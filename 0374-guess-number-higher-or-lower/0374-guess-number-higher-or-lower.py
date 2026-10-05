@@ -5,8 +5,8 @@ class Solution(object):
             mid = (left + right) // 2
             pick = guess(mid)
 
+            if pick == 0: return mid
             if pick == 1:
                 left = mid + 1
-            elif pick == -1:
+            else:
                 right = mid - 1
-            else: return mid           
