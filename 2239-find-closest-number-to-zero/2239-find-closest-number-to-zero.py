@@ -2,7 +2,6 @@ class Solution(object):
     def findClosestNumber(self, nums):
         closest = nums[0]
         for num in nums:
-            print(closest)
             if closest == -num:
                 closest = abs(closest)
 
