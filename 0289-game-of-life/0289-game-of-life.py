@@ -28,20 +28,13 @@ class Solution(object):
                 if row[x] == 0:
                     if live_n == 3:
                         row_to_add.append(1)
-                        continue
                     else:
                         row_to_add.append(0)
-                        continue
                 else:
-                    if live_n < 2:
+                    if live_n < 2 or live_n > 3:
                         row_to_add.append(0)
-                        continue
-                    elif live_n == 2 or live_n == 3:
+                    else:
                         row_to_add.append(1)
-                        continue
-                    elif live_n > 3:
-                        row_to_add.append(0)
-                        continue
 
             ans.append(row_to_add)
         board[:] = ans
