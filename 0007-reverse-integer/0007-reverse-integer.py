@@ -7,5 +7,5 @@ class Solution(object):
 
         ans = int(str(x)[::-1])
 
-        if (-2)**31 < ans < 2**31 - 1: return ans * plus_minus
+        if (-2)**31 < ans and ans < 2**31 - 1: return ans * plus_minus
         return 0
