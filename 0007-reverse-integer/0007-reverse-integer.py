@@ -5,5 +5,10 @@ class Solution(object):
             plus_minus = -1
             x *= -1
 
-        if (-2)**31 < int(str(x)[::-1]) < 2**31 - 1: return int(str(x)[::-1]) * plus_minus
+        str_x = str(x)
+        ans = ""
+        for num in str_x[::-1]:
+            ans += num
+
+        if (-2)**31 < int(ans) < 2**31 - 1: return int(ans) * plus_minus
         return 0
