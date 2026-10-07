@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0788-rotated-digits) |
 | [1025-divisor-game](https://github.com/1N-i/LeetCode-Progress/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/1N-i/LeetCode-Progress/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/1N-i/LeetCode-Progress/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1137-n-th-tribonacci-number) |
 | [1323-maximum-69-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/1N-i/LeetCode-Progress/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/1N-i/LeetCode-Progress/tree/master/1512-number-of-good-pairs) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/1N-i/LeetCode-Progress/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/1137-n-th-tribonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
