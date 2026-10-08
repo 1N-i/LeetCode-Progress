@@ -4,11 +4,9 @@ class Solution(object):
         seen = set()
         nums.sort()
         for num in nums:
-            if num <= 0: continue
-            if num not in seen:
-                seen.add(num)
-            else: continue
-            
+            if (num <= 0) or (num in seen): continue
+            seen.add(num)
+
             if num == sup:
                 sup += 1
             else:
