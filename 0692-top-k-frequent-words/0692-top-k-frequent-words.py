@@ -4,5 +4,4 @@ class Solution(object):
         for word in words:
             guide[word] = guide.get(word, 0) + 1
 
-        sorted_guide = sorted(guide.keys(), key=lambda w: (-guide[w], w))
-        return sorted_guide[:k]
+        return sorted(guide.keys(), key=lambda w: (-guide[w], w))[:k]
