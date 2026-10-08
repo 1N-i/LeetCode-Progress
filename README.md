@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/1N-i/LeetCode-Progress/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0313-super-ugly-number) |
+| [0338-counting-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/1N-i/LeetCode-Progress/tree/master/0788-rotated-digits) |
 | [1025-divisor-game](https://github.com/1N-i/LeetCode-Progress/tree/master/1025-divisor-game) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/1N-i/LeetCode-Progress/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/1N-i/LeetCode-Progress/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/1N-i/LeetCode-Progress/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/1N-i/LeetCode-Progress/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/1N-i/LeetCode-Progress/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/1N-i/LeetCode-Progress/tree/master/0389-find-the-difference) |
