@@ -1,14 +1,22 @@
 class Solution(object):
-    def countAtMost(self, nums, comp):
-        ans = 0
-        j = len(nums) - 1
-        for i in range(len(nums)):
-            while i < j and nums[i] + nums[j] > comp:
-                j -= 1
-            if i < j:
-                ans += j - i
-        return ans
-
     def countFairPairs(self, nums, lower, upper):
         nums.sort()
-        return self.countAtMost(nums, upper) - self.countAtMost(nums, lower - 1)
+        ans = 0
+        left, right = 0, len(nums) - 1
+
+        for _ in range(len(nums)):
+            if nums[left] + nums[right] <= upper:
+                ans += (right - left)
+                left += 1
+            else:
+                right -= 1
+        
+        left, right = 0, len(nums) - 1
+        for _ in range(len(nums)):
+            if nums[left] + nums[right] < lower:
+                ans -= (right - left)
+                left += 1
+            else:
+                right -= 1
+        
+        return ans
