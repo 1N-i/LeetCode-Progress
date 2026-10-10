@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/1N-i/LeetCode-Progress/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/1N-i/LeetCode-Progress/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/1N-i/LeetCode-Progress/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/1N-i/LeetCode-Progress/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/1N-i/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/1N-i/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/1N-i/LeetCode-Progress/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/1N-i/LeetCode-Progress/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/1N-i/LeetCode-Progress/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0119-pascals-triangle-ii) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/1N-i/LeetCode-Progress/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/1N-i/LeetCode-Progress/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/1N-i/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/1N-i/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/1N-i/LeetCode-Progress/tree/master/0240-search-a-2d-matrix-ii) |
