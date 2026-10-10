@@ -14,4 +14,4 @@ class Solution(object):
 
                 row[x] += min(grid[y-1][x], row[x-1])
 
-        return grid[-1][-1]
+        return grid[y][x]
