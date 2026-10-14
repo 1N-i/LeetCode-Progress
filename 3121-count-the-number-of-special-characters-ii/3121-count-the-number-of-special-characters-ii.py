@@ -5,10 +5,13 @@ class Solution(object):
         guide = {}
 
         for i, l in enumerate(word):
-            guide.setdefault(l, []).append(i)
+            if l in upper and l not in guide:
+                guide[l] = i
+            elif l not in upper:
+                guide[l] = i
 
         for l in guide:
-            if l in upper and l.lower() in word and guide[l][0] > guide[l.lower()][-1]:
+            if l in upper and l.lower() in word and guide[l] > guide[l.lower()]:
                 ans += 1
 
         return ans
