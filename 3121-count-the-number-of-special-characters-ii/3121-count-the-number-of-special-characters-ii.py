@@ -5,12 +5,14 @@ class Solution(object):
 
         for i, l in enumerate(word):
             if l.isupper():
-                guide.setdefault(l, i)
+                if l not in guide:
+                    guide[l] = i
             else:
                 guide[l] = i
 
-        for l in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
-            if l in guide and l.lower() in guide and guide[l] > guide[l.lower()]:
-                ans += 1
+        for l in guide:
+            if l.isupper() and l.lower() in guide:
+                if guide[l] > guide[l.lower()]:
+                    ans += 1
 
         return ans
