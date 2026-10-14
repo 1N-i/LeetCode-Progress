@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/1N-i/LeetCode-Progress/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/1N-i/LeetCode-Progress/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/1N-i/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/1N-i/LeetCode-Progress/tree/master/0013-roman-to-integer) |
