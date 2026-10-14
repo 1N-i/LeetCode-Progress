@@ -2,9 +2,7 @@ import string
 class Solution(object):
     def numberOfSpecialChars(self, word):
         ans = 0
-        lower = string.ascii_lowercase
-
-        for l in lower:
+        for l in string.ascii_lowercase:
             if l in word and l.upper() in word:
                 ans += 1
 
