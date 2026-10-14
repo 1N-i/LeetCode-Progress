@@ -4,13 +4,15 @@ class Solution(object):
         guide = {}
 
         for i, l in enumerate(word):
-            if l not in guide:
-                guide[l] = []
-            guide[l].append(i)
+            if l.isupper():
+                if l not in guide:
+                    guide[l] = i
+            else:
+                guide[l] = i
 
         for l in guide:
-            if l.isupper() and l.lower() in set(word):
-                if guide[l][0] > guide[l.lower()][-1]:
+            if l.isupper() and l.lower() in guide:
+                if guide[l] > guide[l.lower()]:
                     ans += 1
 
         return ans
