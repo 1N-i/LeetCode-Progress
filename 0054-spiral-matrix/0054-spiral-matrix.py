@@ -9,10 +9,8 @@ class Solution(object):
 
         ans = []
         total = rows * cols
-
         while len(ans) < total:
             ans.append(matrix[y][x])
-
             if direction == "right":
                 if x == l_right:
                     l_up += 1
