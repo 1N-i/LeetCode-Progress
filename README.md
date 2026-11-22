@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/1N-i/LeetCode-Progress/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/1N-i/LeetCode-Progress/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/1N-i/LeetCode-Progress/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/1N-i/LeetCode-Progress/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2325-decode-the-message](https://github.com/1N-i/LeetCode-Progress/tree/master/2325-decode-the-message) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/1N-i/LeetCode-Progress/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/1N-i/LeetCode-Progress/tree/master/2390-removing-stars-from-a-string) |
